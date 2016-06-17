@@ -1,4 +1,4 @@
-
+//Edited from code used by http://www.instructables.com/id/Blinking-LEDs-to-the-Frequency-of-Musi/
  
 int analogPin = 0; // MSGEQ7 OUT
 int strobePin = 2; // MSGEQ7 STROBE
